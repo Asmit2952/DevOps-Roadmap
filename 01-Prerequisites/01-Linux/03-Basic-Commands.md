@@ -26,3 +26,4 @@
 * `rm -rf`: Forcefully remove a directory recursively
 * `echo`: To print anything on the terminal
 * `du`: Allows a user to gain disk usage information quickly
+* `cp`: Used to copy files or group of files or directory
