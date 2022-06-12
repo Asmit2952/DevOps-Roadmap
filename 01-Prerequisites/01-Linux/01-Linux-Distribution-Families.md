@@ -11,3 +11,5 @@ There are three major distribution families:
 * SUSE Family Systems (such as openSUSE) - SLES (SUSE Linux Enterprise Server) is widely used in retail and many other sectors.
 
 Refer this [document](./installing-linux.pdf) by The [Linux Foundation](https://www.linuxfoundation.org/), on how to prepare your machine for Linux installation, that helps you to select a Linux distribution to install, decide on whether you want to do a stand-alone pure Linux machine or a dual-boot one, whether to do a physical or virtual install, etc. 
+
+I will be using [Ubuntu 20.04 LTS (Focal Fossa)](https://releases.ubuntu.com/20.04/) on dual boot for my learnings.
