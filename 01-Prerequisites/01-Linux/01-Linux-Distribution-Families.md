@@ -9,3 +9,5 @@ There are three major distribution families:
 * Debian Family Systems (such as Ubuntu) - The Debian family is upstream for Ubuntu, and it has been widely used for cloud deployments.
 * RHEL Family Systems (such as Fedora) - RHEL (Red Hat Enterprise Linux ) is widely used by enterprises which host their own systems.
 * SUSE Family Systems (such as openSUSE) - SLES (SUSE Linux Enterprise Server) is widely used in retail and many other sectors.
+
+Refer this [document](./installing-linux.pdf) by The [Linux Foundation](https://www.linuxfoundation.org/), on how to prepare your machine for Linux installation, that helps you to select a Linux distribution to install, decide on whether you want to do a stand-alone pure Linux machine or a dual-boot one, whether to do a physical or virtual install, etc. 
