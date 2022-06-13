@@ -1,5 +1,6 @@
 # Basic Commands in Linux
 
+* `man`: It searches, formats, and displays the information contained in the man page system.
 * `sudo`: Provides the user with administrative (admin) privileges when required
 * `su`: Switch to the root user
 * `cat`: Used to type out a file (or combine files)
