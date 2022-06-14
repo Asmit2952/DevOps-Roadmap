@@ -28,3 +28,4 @@
 * `echo`: To print anything on the terminal
 * `du`: Allows a user to gain disk usage information quickly
 * `cp`: Used to copy files or group of files or directory
+* `ps`: Provides information about currently running processes keyed by PID
