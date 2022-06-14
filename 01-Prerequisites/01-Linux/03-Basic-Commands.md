@@ -30,3 +30,4 @@
 * `cp`: Used to copy files or group of files or directory
 * `ps`: Provides information about currently running processes keyed by PID
 * `pstree`: Displays the processes running on the system in the form of a tree diagram
+* `top`: Provides information about currently running processes every two seconds
