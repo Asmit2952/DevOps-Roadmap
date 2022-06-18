@@ -77,3 +77,5 @@ emacs <filename>
 * `CTRL-v or Page Down`: Move forward one page
 * `Meta-v or Page Up`: Move backward one page
 * `CTRL-l`: Refresh and center screen
+
+Refer this [document](./commands-for-emacs.pdf) for more vi commands in detail
