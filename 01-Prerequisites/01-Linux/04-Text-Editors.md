@@ -62,4 +62,18 @@ emacs <filename>
 
 ### Changing Cursor Positions in emacs
 
-* ``
+* `arrow keys`: To move up, down, left and right
+* `CTRL-n`: One line down
+* `CTRL-p`: One line up
+* `CTRL-f`: One character forward/right
+* `CTRL-b`: One character back/left
+* `CTRL-a`: Move to beginning of line
+* `CTRL-e`: Move to end of line
+* `Meta-f`: Move to beginning of next word
+* `Meta-b`: Move back to beginning of preceding word
+* `Meta-<`: Move to beginning of file
+* `Meta-g-g-n`: Move to line n (can also use 'Esc-x Goto-line n')
+* `Meta->`: Move to end of file
+* `CTRL-v or Page Down`: Move forward one page
+* `Meta-v or Page Up`: Move backward one page
+* `CTRL-l`: Refresh and center screen
