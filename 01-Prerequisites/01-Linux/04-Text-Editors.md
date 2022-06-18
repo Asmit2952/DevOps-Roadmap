@@ -22,6 +22,7 @@ vi <filename>
 * `:r file2`: Read in file2 and insert at current position
 * `:w`: Write to the file
 * `i`: Switch to insert mode
+* `Esc key`: Switch to normal mode
 * `:w myfile`: Write out to myfile
 * `:w! file2`: Overwrite file2
 * `:x or :wq`: Exit and write out modified file
