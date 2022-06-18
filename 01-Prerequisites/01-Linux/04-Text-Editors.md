@@ -78,4 +78,4 @@ emacs <filename>
 * `Meta-v or Page Up`: Move backward one page
 * `CTRL-l`: Refresh and center screen
 
-Refer this [document](./commands-for-emacs.pdf) for more vi commands in detail
+Refer this [document](./commands-for-emacs.pdf) for more emacs commands in detail
