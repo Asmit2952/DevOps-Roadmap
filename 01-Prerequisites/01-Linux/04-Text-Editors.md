@@ -45,3 +45,5 @@ vi <filename>
 * `CTRL-F or Page Down`: To move forward one page
 * `CTRL-B or Page Up`: To move backward one page
 * `^l`: To refresh and center screen
+
+Refer this [document](./commands-for-vi.pdf) for more vi commands in detail
