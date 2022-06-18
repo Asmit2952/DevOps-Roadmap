@@ -29,7 +29,7 @@ vi <filename>
 * `:q`: Quit
 * `:q!`: Quit even though modifications have not been saved
 
-### Changing Cursor Positions
+### Changing Cursor Positions in vi
 
 * `arrow keys`: To move up, down, left and right
 * `j`: To move one line down
@@ -47,3 +47,19 @@ vi <filename>
 * `^l`: To refresh and center screen
 
 Refer this [document](./commands-for-vi.pdf) for more vi commands in detail
+
+## emacs
+
+```
+emacs <filename>
+```
+
+* `CTRL-x i`: Insert prompted for file at current position
+* `CTRL-x s`: Save all files
+* `CTRL-x CTRL-w`: Write to the file giving a new name when prompted
+* `CTRL-x CTRL-s`: Saves the current file
+* `CTRL-x CTRL-c`: Exit after being prompted to save any modified files
+
+### Changing Cursor Positions in emacs
+
+* ``
