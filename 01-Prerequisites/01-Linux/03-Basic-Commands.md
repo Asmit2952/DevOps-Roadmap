@@ -31,3 +31,16 @@
 * `ps`: Provides information about currently running processes keyed by PID
 * `pstree`: Displays the processes running on the system in the form of a tree diagram
 * `top`: Provides information about currently running processes every two seconds
+
+## Keyboard Shortcuts
+
+* `CTRL-L`: Clears the screen
+* `CTRL-D`: Exits the current shell
+* `CTRL-Z`: Puts the current process into suspended background
+* `CTRL-C`: Kills the current process
+* `CTRL-H`: Works the same as backspace
+* `CTRL-A`: Goes to the beginning of the line
+* `CTRL-W`: Deletes the word before the cursor
+* `CTRL-U`: Deletes from beginning of line to cursor position
+* `CTRL-E`: Goes to the end of the line
+* `Tab`: 
