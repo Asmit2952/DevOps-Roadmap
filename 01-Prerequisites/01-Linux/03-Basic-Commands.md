@@ -43,4 +43,4 @@
 * `CTRL-W`: Deletes the word before the cursor
 * `CTRL-U`: Deletes from beginning of line to cursor position
 * `CTRL-E`: Goes to the end of the line
-* `Tab`: 
+* `Tab`: Auto-completes files, directories, and binaries
