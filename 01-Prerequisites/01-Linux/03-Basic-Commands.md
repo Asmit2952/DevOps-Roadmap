@@ -1,5 +1,6 @@
 # Basic Commands in Linux
 
+* `whoami`: To find the current user ID
 * `man`: It searches, formats, and displays the information contained in the man page system.
 * `sudo`: Provides the user with administrative (admin) privileges when required
 * `su`: Switch to the root user
