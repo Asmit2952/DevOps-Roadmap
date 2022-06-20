@@ -44,3 +44,9 @@
 * `CTRL-U`: Deletes from beginning of line to cursor position
 * `CTRL-E`: Goes to the end of the line
 * `Tab`: Auto-completes files, directories, and binaries
+
+## File Permissions
+
+* `chown`: Used to change user ownership of a file or directory
+* `chgrp`: Used to change group ownership
+* `chmod`: Used to change the permissions on the file, which can be done separately for owner, group and the rest of the world (often named as other)
