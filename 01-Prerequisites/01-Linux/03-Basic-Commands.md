@@ -50,3 +50,18 @@
 * `chown`: Used to change user ownership of a file or directory
 * `chgrp`: Used to change group ownership
 * `chmod`: Used to change the permissions on the file, which can be done separately for owner, group and the rest of the world (often named as other)
+
+### chmod
+A single digit suffices to specify all three permission bits for each entity. This digit is the sum of:
+* `4` if read permission is desired
+* `2` if write permission is desired
+* `1` if execute permission is desired.
+
+Thus, `7` means read/write/execute, `6` means read/write, and `5` means read/execute.
+
+```
+$ chmod 755 demo
+$ ls -l somefile
+-rwxr-xr-x 1 student student 1601 Mar 9 15:04 demo
+```
+This grants the user, groups, and other users access to the `demo` file with read, write, and execute permissions.
