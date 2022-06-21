@@ -72,3 +72,5 @@ This grants the user, groups, and other users access to the `demo` file with rea
 * `sort`: Used to rearrange the lines of a text file, in either ascending or descending order according to a sort key
 * `uniq`: Removes duplicate consecutive lines in a text file
 * `paste`: Used to combine fields from different files, as well as combine lines from multiple files
+* `join`: Enhanced version of `paste`. It first checks whether the files share common fields, and then joins the lines in two files based on a common field.
+* `split`: Used to break up (or split) a file into equal-sized segments for easier viewing and manipulation.
