@@ -66,3 +66,7 @@ $ ls -l somefile
 -rwxr-xr-x 1 student student 1601 Mar 9 15:04 demo
 ```
 This grants the user, groups, and other users access to the `demo` file with read, write, and execute permissions.
+
+## File Manipulation Utilities
+
+* `sort`: Used to rearrange the lines of a text file, in either ascending or descending order according to a sort key
