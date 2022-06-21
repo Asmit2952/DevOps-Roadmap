@@ -74,3 +74,12 @@ This grants the user, groups, and other users access to the `demo` file with rea
 * `paste`: Used to combine fields from different files, as well as combine lines from multiple files
 * `join`: Enhanced version of `paste`. It first checks whether the files share common fields, and then joins the lines in two files based on a common field.
 * `split`: Used to break up (or split) a file into equal-sized segments for easier viewing and manipulation.
+
+## grep
+
+It is extensively used as a primary text searching tool. It scans files for specified patterns and can be used with regular expressions, as well as simple strings.
+
+* `grep [pattern] <filename>`: Search for a pattern in a file and print all matching lines
+* `grep -v [pattern] <filename>`: Print all lines that do not match the pattern
+* `grep [0-9] <filename>`: Print the lines that contain the numbers 0 through 9
+* `grep -C 3 [pattern] <filename>`: Print context of lines (specified number of lines above and below the pattern) for matching the pattern. Here, the number of lines is specified as 3
