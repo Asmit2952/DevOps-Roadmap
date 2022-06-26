@@ -5,3 +5,10 @@ Devices attached to a network must have at least one unique network address iden
 `IPv4` uses 32-bits for addresses; there are only 4.3 billion unique addresses available.
 
 `IPv6` uses 128-bits for addresses; this allows for $3.8*10^{38}$ unique addresses.
+
+## Decoding IPv4 addresses
+
+```
+IP address →        172  .    16  .    31  .   46
+Bit format →     10101100.00010000.00011111.00101110
+```
