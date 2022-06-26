@@ -8,3 +8,4 @@
 2. [Filesystem Hierarchy Standard](./02-Filesystem-Hierarchy-Standard.md)
 3. [Basic Commands](./03-Basic-Commands.md)
 4. [Text Editors](./04-Text-Editors.md)
+5. [Networking](./05-Networking.md)
