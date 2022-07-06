@@ -22,3 +22,8 @@ Bit format →     10101100.00010000.00011111.00101110
 * `ping`: Used to check whether or not a machine attached to the network can receive and send data
 * `route` or `ip route`: Used to view or change the IP routing table to add, delete, or modify specific (static) routes to specific hosts or networks
 * `traceroute`: Used to inspect the route which the data packet takes to reach the destination host, which makes it quite useful for troubleshooting network delays and errors
+
+## wget and curl
+
+* `wget <url>`: Used to download a web page
+* `curl <url>`: Enables data transfer over various network protocols
