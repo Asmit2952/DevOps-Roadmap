@@ -12,3 +12,6 @@ Devices attached to a network must have at least one unique network address iden
 IP address →        172  .    16  .    31  .   46
 Bit format →     10101100.00010000.00011111.00101110
 ```
+`$ /sbin/ip addr show`: To view the IP address
+
+`$ /sbin/ip route show`: To view the routing information
